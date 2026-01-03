@@ -54,6 +54,7 @@
 - [Pi7 Image Compressor](https://image.pi7.org/compress-image-to-50kb) - Variable size image compressor.
 - [Sejda](https://www.sejda.com/) - Okay-ish PDF editor but with feature to edit PDF contents.
 - [ILovePDF](https://www.ilovepdf.com/) - My go to PDF Editor of choice.
+- [Markdown Live Preview](https://markdownlivepreview.com/) - Online Markdown editor.
 <br>
 
 ## 📧 Email Services
@@ -62,7 +63,7 @@
 - [Tuta Mail](https://tuta.com/) - Another Privacy first email service alongside a calendar with a minimal UI and generous free tier.
 <br>
 
-## ☁ Cloud
+## ☁ Cloud Storage
 
 - [Filen](https://filen.io/) - End-to-End Encrypted cloud storage with 10GB free plan.
 - [pCloud](https://www.pcloud.com/) - Free 10GB cloud storage BUT End-to-End Encryption is a paid add-on...😑 WHY ?
