@@ -87,6 +87,7 @@
 
 - [TranslucentTB](https://translucenttb.github.io/) - A lightweight utility that makes Windows taskbar transparent.
 - [Shutup10++](https://www.oo-software.com/en/shutup10) - A Windows utility that gives full control over data, prevents unwanted data collection by Windows.
+- [WinToys](https://bogdan-patraucean.github.io/about/wintoys/) - Optimize Windows for better performance and stop annoying features.
 - [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Ad skip/block for Spotify, Super handy !
 - [Cryptomator](https://cryptomator.org/) - Free and open source data encryption software.
 - [scoop](https://scoop.sh/) - A command-line installer for Windows, super useful.
